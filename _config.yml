@@ -9,18 +9,19 @@ gems                : ["jekyll-paginate"]
 permalink           : pretty
 
 # Setup
-title               : Rhadow's Tech Note
-tagline             : 'JavaScript, front-end, and web development articles'
-description         : 'News, articles and reviews of a variety of web development frameworks and modules.'
+title               : KC's
+tagline             : ''
+description         : '期末考崩潰中 ...Midterm Breakdown'
 baseurl             : /
 
-author              : Howard Chang
-name                : 'Howard Chang'
-url                 : https://rhadow.github.io/
-
+author              : Kuan-Chia Chiu
+name                : 'Kuan-Chia Chiu'
+url                 : https://ttt50966.github.io/
+disqus:
+  shortname: ttt50966-github-io
 paginate            : 5
 
 # Custom vars
 version             : 0.1.0
-twitter_username    : Rhadow3433
-github_username     : Rhadow
+twitter_username    : ttt50966
+github_username     : ttt50966
